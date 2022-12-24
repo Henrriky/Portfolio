@@ -263,6 +263,10 @@ body {
     height: 20px;
 }
 
+.container .projects .projects-info .project-1 {
+    cursor: pointer;
+}
+
 .container .projects .projects-info .project-1 > p{
     font-weight: 400;
     font-size: 14px;
@@ -326,6 +330,7 @@ body {
     align-items: center;
     justify-content: flex-start;
     gap: 20px;
+    cursor: pointer
 }
 
 .container .posts .post-infos img {
