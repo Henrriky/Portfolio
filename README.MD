@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center">
-  <img alt="versão 1 do projeto" title="#rocketflix" src="./assets/readme-assets/portfolio.png">
+  <img alt="versão 1 do projeto" title="#rocketflix" src="./.github/readme-assets/portfolio.png">
 </p>  
 
 ### 💻 Sobre o desafio
